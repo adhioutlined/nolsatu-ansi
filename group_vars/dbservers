@@ -1,0 +1,6 @@
+mysql_port: 3306
+dbrootpassword: 
+dbrootpasswordnew: RAHASIALHO
+dbname: training
+dbuser: student
+dbpassword: secret
